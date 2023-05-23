@@ -22,5 +22,8 @@
           "path": "lang/pt-br.json",
           "flags": {}
         }
-    ]
+    ],
+
+    "url": "https://github.com/mikedsousa/vaesen-pt-br",
+    "manifest": "https://github.com/mikedsousa/vaesen-pt-br/blob/main/vaesen-pt-br/module.json"
 }
