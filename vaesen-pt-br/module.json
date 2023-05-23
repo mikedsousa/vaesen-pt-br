@@ -10,7 +10,7 @@
   ],
   "version": "1.0.0",
   "compatibility": {
-    "minimum": 9,
+    "minimum": 10,
     "verified": 10,
     "maximum": 10
     },
@@ -25,5 +25,7 @@
     ],
 
     "url": "https://github.com/mikedsousa/vaesen-pt-br",
-    "manifest": "https://github.com/mikedsousa/vaesen-pt-br/blob/main/vaesen-pt-br/module.json"
+    "manifest": "https://github.com/mikedsousa/vaesen-pt-br/blob/main/vaesen-pt-br/module.json",
+    "download": "https://mega.nz/folder/tSdH0ZDA#o663ccmk53GtaHeTM04fMg"
+
 }
