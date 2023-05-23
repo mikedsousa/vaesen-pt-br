@@ -1,0 +1,26 @@
+{
+  "name": "vaesen-pt-br",
+  "title": "Vaesen - Tradução pt-br",
+  "description": "Modulo de tradução do sistema Vaesen",
+  "authors": [
+    {
+      "name": "Mike de Sousa",
+      "Discord": "Mike d'Sousa#7109"
+    }
+  ],
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": 9,
+    "verified": 10,
+    "maximum": 10
+    },
+
+      "languages": [
+        {
+          "lang": "pt-BR",
+          "name": "Português (Brasil)",
+          "path": "lang/pt-br.json",
+          "flags": {}
+        }
+    ]
+}
