@@ -25,7 +25,6 @@
     ],
 
     "url": "https://github.com/mikedsousa/vaesen-pt-br",
-    "manifest": "https://github.com/mikedsousa/vaesen-pt-br/blob/main/vaesen-pt-br/module.json",
-    "download": "https://mega.nz/folder/tSdH0ZDA#o663ccmk53GtaHeTM04fMg"
+    "manifest": "https://raw.githubusercontent.com/mikedsousa/vaesen-pt-br/main/vaesen-pt-br/module.json"
 
 }
