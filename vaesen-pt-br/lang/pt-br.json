@@ -1,4 +1,16 @@
 {
+    "ACTOR.TypePlayer": "Personagem do Jogador",
+    "ACTOR.TypeHeadquarter": "Sede",
+    "ITEM.TypeCriticalinjury": "Ferimento Crítico",
+    "ITEM.TypeWeapon": "Arma",
+    "ITEM.TypeArmor": "Armadura",
+    "ITEM.TypeTalent": "Talento",
+    "ITEM.TypeGear": "Equipamento",
+    "ITEM.TypeMagic": "Magica",
+    "ITEM.TypeCondition": "Condição",
+    "ITEM.TypeAttack": "Ataque",
+    "ITEM.TypeRelationship": "Relacionamento",
+  
     "ATTRIBUTE.PHYSIQUE": "FÍSICO",
     "ATTRIBUTE.PRECISION": "PRECISÃO",
     "ATTRIBUTE.LOGIC": "LÓGICA",
